@@ -33,8 +33,8 @@ knitr::opts_chunk$set(
 library(xaringanthemer)
 
 style_duo_accent(
-  primary_color = "#1381B0",  # Blue
-  secondary_color = "#FF961C" # Yellow/orange
+  primary_color = "#0F2080",  # Dark navy blue
+  secondary_color = "#A95AA1", # Light purple
   inverse_header_color = "#FFFFFF"
 )
 ```

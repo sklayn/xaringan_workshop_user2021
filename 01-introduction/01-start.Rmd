@@ -7,8 +7,8 @@ date: "2021-07-07"
 output:
   xaringan::moon_reader:
     nature:
-      slideNumberFormat: "%current%"
-      highlightStyle: github
+      slideNumberFormat: "%current%/%total%"
+      highlightStyle: googlecode
       highlightLines: true
       ratio: 16:9
       countIncrementalSlides: true
@@ -161,7 +161,7 @@ You can highlight lines of code within code chunks using `#<<` which adds a yell
 
 ### Code
 
-```r
+```r 
 lemurs %>% filter(birth_type != "unknown") %>%
   ggplot(aes(x = dob, fill = birth_type)) +
   geom_histogram() +              #<<
