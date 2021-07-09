@@ -1,0 +1,11 @@
+/* CSV */
+a0c52f,2d7738,ffffff,00bfb3
+
+/* Array */
+["a0c52f","2d7738","ffffff","00bfb3"]
+
+/* Object */
+{"Android Green":"a0c52f","Dartmouth Green":"2d7738","White":"ffffff","Tiffany Blue":"00bfb3"}
+
+/* Extended Array */
+[{"name":"Android Green","hex":"a0c52f","rgb":[160,197,47],"cmyk":[19,0,76,23],"hsb":[75,76,77],"hsl":[75,61,48],"lab":[75,-32,66]},{"name":"Dartmouth Green","hex":"2d7738","rgb":[45,119,56],"cmyk":[62,0,53,53],"hsb":[129,62,47],"hsl":[129,45,32],"lab":[44,-37,28]},{"name":"White","hex":"ffffff","rgb":[255,255,255],"cmyk":[0,0,0,0],"hsb":[0,0,100],"hsl":[0,0,100],"lab":[100,0,0]},{"name":"Tiffany Blue","hex":"00bfb3","rgb":[0,191,179],"cmyk":[100,0,6,25],"hsb":[176,100,75],"hsl":[176,100,37],"lab":[70,-42,-5]}]
